@@ -1,7 +1,7 @@
 # burp_file_replace.py
 # Burp extension (Jython / Python 2.7 style)
 # Replaces a selected region of the request body with file contents (streamed in chunks).
-# Author: (you)
+# Author: (@sanjarbiiy)
 # License: MIT
 
 from burp import IBurpExtender, IContextMenuFactory
